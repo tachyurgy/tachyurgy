@@ -4,7 +4,7 @@ Principal-led Ruby on Rails & backend engineering practice — production featur
 performance work, and practical AI/LLM tooling for product teams.
 Available for contract / C2C engagements. Pacific Time, US.
 
-**Site:** [consulting.levelbrook.com](https://consulting.levelbrook.com) · **Contact:** levelbrookteam@gmail.com
+**Site:** [consulting.levelbrook.com](https://consulting.levelbrook.com) · **Contact:** levelbrookteam@gmail.com · **Résumé:** [front-end (PDF)](https://github.com/tachyurgy/beacon-seo-dashboard/blob/master/resume/levelbrook-consulting-frontend-resume.pdf)
 
 ---
 
@@ -12,6 +12,7 @@ Available for contract / C2C engagements. Pacific Time, US.
 
 | Project | What it is | Live |
 |---|---|---|
+| [**beacon-seo-dashboard**](https://github.com/tachyurgy/beacon-seo-dashboard) | React SEO & Core Web Vitals dashboard — animated score gauges and charts hand-coded in SVG (no chart library), Core Web Vitals scored against Google's real thresholds, fully responsive, light/dark. | [beacon-seo.pages.dev](https://beacon-seo.pages.dev) · [writeup](https://consulting.levelbrook.com/writing/beacon-seo-dashboard-react/) |
 | [**hey-claude**](https://github.com/tachyurgy/hey-claude) | On-device macOS voice wake word that dispatches a background coding agent (openWakeWord + MLX Whisper on Apple Silicon). | [writeup](https://consulting.levelbrook.com/writing/hey-claude-on-device-wake-word/) |
 | [**levelbrook-hotwire-demo**](https://github.com/tachyurgy/levelbrook-hotwire-demo) | Rails 8 + Hotwire product workbench — realtime collaboration, inline editing, command palette, and live LLM streaming. | [demo.levelbrook.com](https://demo.levelbrook.com) |
 | [**equipment-cluster**](https://github.com/tachyurgy/equipment-cluster) | Visual ML pipeline over 20k+ equipment photos: DINOv2 → UMAP → HDBSCAN → CLIP zero-shot labels → React viewer. | [viewer](https://tachyurgy.github.io/equipment-cluster/) |
