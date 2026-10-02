@@ -10,7 +10,7 @@ levelbrookteam@gmail.com · [resume (PDF)](https://levelbrook-resume.s3.amazonaw
 
 | | |
 |---|---|
-| [**Porchlight**](https://porchlight.ing) | A live Rails 8 product I built and run, with real customers. Senior-living residents record their life stories; the app transcribes them and turns them into something staff and families can use. The repo is private, but I am happy to walk through it on a screen share. |
+| [**Porchlight**](https://porchlight.ing) | A live Rails 8 product I built and run. Senior-living residents record their life stories; the app transcribes them and turns them into something staff and families can use. The repo is private, but I am happy to walk through it on a screen share. |
 | [**demo.levelbrook.com**](https://demo.levelbrook.com) | Rails 8 and Hotwire. A Kanban board that morphs live across browsers with Turbo 8, per-field inline editing, and an LLM chat that streams tokens over `ActionController::Live` and SSE with a wire inspector so you can watch the frames go by. Source: [levelbrook-hotwire-demo](https://github.com/tachyurgy/levelbrook-hotwire-demo). |
 | [**recourse**](https://github.com/tachyurgy/recourse) | A loan-servicing exception queue. State is folded from an append-only event log so the queue and the audit trail cannot drift, and the LLM classifier attached to it was measured against a labelled set rather than assumed to work. Live at [recourse.levelbrook.com](https://recourse.levelbrook.com). |
 | [**tether**](https://github.com/tachyurgy/tether) | Static goroutine-leak analyzer built on `x/tools/go/analysis`. Run over the whole Go 1.25 standard library it found a real WaitGroup hang in the `database/sql` tests. |
