@@ -1,6 +1,6 @@
 # Patrick Donahue
 
-Senior backend engineer in Renton, Washington. Seven years on one production Rails SaaS that grew from about $4M to $13M ARR while I owned API design, PostgreSQL performance and the AWS bill. Over the past year most of my time has gone into LLM application infrastructure: streaming that survives a proxy, tool calls that fail safely, evaluation harnesses so a prompt change can be shown to have helped, and agent-driven development against real production code.
+Senior backend engineer in the Pacific Northwest. Seven years on one production Rails SaaS that grew from about $4M to $13M ARR while I owned API design, PostgreSQL performance and the AWS bill. Over the past year most of my time has gone into LLM application infrastructure: streaming that survives a proxy, tool calls that fail safely, evaluation harnesses so a prompt change can be shown to have helped, and agent-driven development against real production code.
 
 Available for contract or C2C work through Levelbrook Consulting LLC, and open to a senior IC role. Remote, US Pacific.
 
